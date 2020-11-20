@@ -1,3 +1,4 @@
+#реквест
 class Worker:
     def __init__(self, name, surname, position, wage, bonus):
         self.name = name
